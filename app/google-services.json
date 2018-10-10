@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "457846325704",
+    "firebase_url": "https://agent-1-cb0f0.firebaseio.com",
+    "project_id": "agent-1-cb0f0",
+    "storage_bucket": "agent-1-cb0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457846325704:android:853eac5316e60fba",
+        "android_client_info": {
+          "package_name": "com.edandaniel.componentsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457846325704-7tt8hjp1fida40clq3bd9i61un0oc7g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edandaniel.componentsapplication",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "457846325704-2jsr3la93lbu9aueg7o0mkuireajocgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXSQ4TYhzHbm-FE_3xUektXdUY-RFlR7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457846325704-2jsr3la93lbu9aueg7o0mkuireajocgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457846325704-6nq0co7edv7uk9g07m2sn6r3vqlvgg5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fiap.ShoppingList"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
